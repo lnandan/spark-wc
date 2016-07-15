@@ -1,3 +1,2 @@
-you know what, you can control pre diabetes by controlling your diet, lower the intake of carbs,
-plus do you need to regular exercise. never go more than 2 days without exercise,
-also lower alcohol consumption
+alright..this is a just a test of things work from eclipse/scala via git..
+pls dont sweat over small stuff
